@@ -472,7 +472,14 @@ MIT License - feel free to use this project for learning and development.
 ## Contact
 
 For questions or issues, please open an issue on GitHub.
+ranveer4us@gmail.com
 
 ---
+## Pics
+
+
+
+---
+
 
 Built with ❤️ using React, Express, and Supabase
