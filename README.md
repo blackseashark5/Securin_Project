@@ -2,6 +2,9 @@
 
 A production-grade full-stack application for managing and searching recipe data with a REST API backend and interactive React frontend.
 
+🎥 [Watch the demo video on YouTube](https://youtu.be/46tmS5i5fOI)
+
+
 ## Features
 
 ### Backend API
